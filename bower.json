@@ -1,0 +1,23 @@
+{
+  "name": "mintpl",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mamboer/mintpl",
+  "authors": ["Levin Van <github.com/mamboer>"],
+  "description": "MinTpl.JS - A library agnostic, Minimal Javascript Template Engine, inspired by John Resig&#39;s micro templating code snippet.",
+  "main": "dist/mintpl.js",
+  "keywords": ["MinTpl.JS","mintpl","javascript","template","template engine","heredoc"],
+  "license": "MIT",
+  "ignore": [
+    "gulpfile.js",
+    "*.tpl",
+    "src",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.swig",
+    "*.json",
+    "site"
+  ]
+}
